@@ -9,6 +9,6 @@ services:
     autoDeploy: true
     envVars:
       - key: BOT_TOKEN
-        value: your_real_bot_token_here
+        value: 7751314755:AAFXmYJ2lW7xZhU7Txl1JuqCxG8LfbKmNZM
       - key: ADMIN_CHAT_ID
         value: "6848807471"
